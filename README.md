@@ -12,8 +12,8 @@ Komponenty:
 
 -joystick.
 
-Na wyświetlaczu stworzono kilku-stopniowe menu przewijalne, które pozwalało na sterowanie diodą RGB oraz buzzerem. 
-Poruszanie po menu odbywało się z użyciem joysticka (góra, dół, wciśnięcie).
+Na wyświetlaczu stworzono kilku-stopniowe menu przewijalne, które pozwala na sterowanie diodą RGB oraz buzzerem. 
+Poruszanie po menu odbywa się z użyciem joysticka (góra, dół, wciśnięcie).
 Opcje dla diody:
 
 -włącz/wyłącz,
@@ -22,5 +22,5 @@ Opcje dla diody:
 
 -zmiana jasności 0-100% dla każdego koloru osobno.
 
-Buzzer wykorzystano do stworzenia metronomu. W menu można było sterować częstotliwością jaką pika, 
-co równocześnie sterowało prędkością migania diody.
+Buzzer wykorzystano do stworzenia metronomu. W menu można sterować częstotliwością jaką pika, 
+co równocześnie steruje prędkością migania diody.
